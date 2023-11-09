@@ -393,7 +393,3 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 This project is protected under the MIT License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
-
-[**Return**](#Top)
-
----
